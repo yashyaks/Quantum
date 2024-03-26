@@ -1,0 +1,7 @@
+bird_song
+cardinalis - 0
+melospiza - 1
+
+music
+classical - 0
+pop - 1
