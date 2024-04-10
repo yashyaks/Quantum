@@ -1,3 +1,0 @@
-Dataset: https://www.kaggle.com/datasets/vbookshelf/respiratory-sound-database/code?datasetId=110374
-            -- we have made a numeric form of this (for quantum)
-        
